@@ -4,7 +4,12 @@ Civil and environmental engineering Ph.D. candidate at UC Berkeley in the Struct
 
 ## Research Projects
 Differentiable physics for structural health monitoring. 
+- Developed dynamic and Differentiable Material Point Model (DiffMPM) simulator in JAX and Taichi.
+- Developed static and Differentiable Finite Element Model (DiffFEM) simulator in Warp.
 
+Data-Driven Train Classification from Dynamic Strain Monitoring Data
+- Developed Python ML framework to classify trains from dynamic strain data collected from an array of 60 FOS installed on a 150-year-old masonry bridge with 96% accuracy.
+- Performed signal processing, data cleaning, EDA, and feature extraction of 4870 strain recordings via Python.
 
 
 
