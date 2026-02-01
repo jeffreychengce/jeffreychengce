@@ -1,7 +1,6 @@
 ## About Me
 
-Civil and environmental engineering Ph.D. candidate at UC Berkeley in the Structural Engineering, Mechanics and Materials program.
-
+Civil and environmental engineering Ph.D. candidate at UC Berkeley in the Structural Engineering, Mechanics and Materials program. Advised by Professor Matthew DeJong.
 
 ## Research Projects
 Differentiable physics for structural health monitoring. 
