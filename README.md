@@ -14,13 +14,16 @@ Data-Driven Train Classification from Dynamic Strain Monitoring Data:
 
 
 ## Publications
-[J.1] 	**Cheng, J.**, Kumar, K., & DeJong, M. J. (2025). Structural identification of material properties and load parameters using a differentiable material point method. Computer-Aided Civil and Infrastructure Engineering, 40(24), 3856–3874. https://doi.org/10.1111/mice.70042
+
+[J.1]   **Cheng, J.**, Kumar, K., & DeJong, M. J. (2026). Damage detection and identification using a differentiable material point method. Computers & Structures, 328, 108259. https://doi.org/10.1016/j.compstruc.2026.108259.
+
+[J.2] 	**Cheng, J.**, Kumar, K., & DeJong, M. J. (2025). Structural identification of material properties and load parameters using a differentiable material point method. Computer-Aided Civil and Infrastructure Engineering, 40(24), 3856–3874. https://doi.org/10.1111/mice.70042
 
 [C.1] 	**Cheng, J.**, Chen, A., DeJong, M.J., and Cocking, S. (2024). Data-derived train classification and monitoring of masonry bridge. In: Proceedings of IABMAS 2024, the 12th International Conference on Bridge Maintenance, Safety and Management, Copenhagen, Denmark. 3371–3379. https://doi.org/10.1201/9781003483755-399
 
-[J.2] 	Liu, H., Zhang, S., Coulibaly, A. A. S., **Cheng, J.**, & DeJong, M. J. (2021). Monitoring Reinforced Concrete Cracking Behavior under Uniaxial Tension Using Distributed Fiber-Optic Sensing Technology. Journal of Structural Engineering, 147(12). https://doi.org/10.1061/(asce)st.1943-541x.0003191
+[J.3] 	Liu, H., Zhang, S., Coulibaly, A. A. S., **Cheng, J.**, & DeJong, M. J. (2021). Monitoring Reinforced Concrete Cracking Behavior under Uniaxial Tension Using Distributed Fiber-Optic Sensing Technology. Journal of Structural Engineering, 147(12). https://doi.org/10.1061/(asce)st.1943-541x.0003191
 
-[J.3] 	Zhang, S., Liu, H., **Cheng, J.**, & DeJong, M. J. (2020). A mechanical model to interpret distributed fiber optic strain measurement at displacement discontinuities. Structural Health Monitoring, 20(5), 2584–2603. https://doi.org/10.1177/1475921720964183
+[J.4] 	Zhang, S., Liu, H., **Cheng, J.**, & DeJong, M. J. (2020). A mechanical model to interpret distributed fiber optic strain measurement at displacement discontinuities. Structural Health Monitoring, 20(5), 2584–2603. https://doi.org/10.1177/1475921720964183
 
 
 
